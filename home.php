@@ -13,7 +13,4 @@
 <a href="#" onclick="setActiveStyleSheet('fire'); return false;">Change style to Fire (red)</a><br><br>
 <a href="#" onclick="setActiveStyleSheet('earth'); return false;">Change style to Earth (green)</a><br><br>
 
-
-<!--<p class="text">Hello</p>-->
-
 </body>
